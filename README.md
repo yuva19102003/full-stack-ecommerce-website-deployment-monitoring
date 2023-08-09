@@ -1,9 +1,7 @@
-# full-stack-ecommerce-website-deployment-monitoring
-Devloped an Full stack E-commerce Website using  python Django framework for database using the MYSQL from the AWS RDS. then containerised into an Docker image using docker file and pushed in AWS ECR .Deploying the AWS ECR image in the AWS EBS  in the Docker Platform using the dockerrun.aws.json and monitoring using cloudwatch and AWS SNS.
-
 
 # Deploying a Full Stack E-commerce Django Website on AWS Elastic Beanstalk with CloudWatch Monitoring and SNS
-
+<img src="Screenshot from 2023-08-09 23-54-06.png">
+<img src="Screenshot from 2023-08-09 23-54-59.png">
 This guide extends the previous instructions for deploying a full-stack E-commerce Django website on AWS Elastic Beanstalk using AWS Elastic Container Registry (ECR) by adding CloudWatch monitoring and Simple Notification Service (SNS) for alerting.
 
 ## Prerequisites
