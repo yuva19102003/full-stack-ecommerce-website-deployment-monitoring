@@ -80,7 +80,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',  # For MySQL
         'NAME': 'shopcart',
         'USER': 'admin',
-        'PASSWORD': 'Yr19102003.',
+        'PASSWORD': '*********',
         'HOST': 'database-1.c9kx1gm7ufrm.us-east-1.rds.amazonaws.com',
         'PORT': '3306',
     }
