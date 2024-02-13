@@ -1,7 +1,7 @@
 
 # Deploying a Full Stack E-commerce Django Website on AWS Elastic Beanstalk with CloudWatch Monitoring and SNS
 
-![DIAGRAM](https://github.com/yuva19102003/Elastic-Cloud-Solution-project/blob/master/ELASTIC-CLOUD-SOLUTION.drawio.svg)
+![DIAGRAM](https://github.com/yuva19102003/full-stack-ecommerce-website-deployment-monitoring/blob/master/diagram.svg)
 
 <img src="Screenshot from 2023-08-09 23-54-06.png">
 <img src="Screenshot from 2023-08-09 23-54-59.png">
