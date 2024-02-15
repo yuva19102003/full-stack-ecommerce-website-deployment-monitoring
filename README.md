@@ -114,7 +114,7 @@ DATABASES = {
       - Configure the topic settings and subscriptions.
 
 11. **Associate CloudWatch Alarms with SNS**
-    <img src="project-screenshot/aws-sns-notification.jpg">
+    <img src="https://github.com/yuva19102003/full-stack-ecommerce-website-deployment-monitoring/blob/master/project-screenshot/sns-notification.jpg">
     - Go back to the CloudWatch service.
     - In the Alarms section, select an alarm.
     - Choose "Actions" and then "Modify Alarm" to configure the actions for the alarm.
